@@ -1,7 +1,7 @@
 {
   "name": "@corets/clipboard-helpers",
   "description": "Various helpers related to clipboard specific functionality",
-  "version": "0.0.1-5",
+  "version": "0.1.0-0",
   "author": "Maxim Kott",
   "license": "MIT",
   "main": "dist/index.js",
@@ -32,11 +32,11 @@
     "prepare": "yarn run build"
   },
   "devDependencies": {
-    "np": "^7.2.0",
-    "prettier": "2.2.1",
+    "@types/jest": "^26.0.24",
     "esbuild": "^0.12.15",
     "jest": "^27.0.6",
-    "@types/jest": "^26.0.24",
+    "np": "^7.2.0",
+    "prettier": "2.2.1",
     "rollup": "^2.52.8",
     "rollup-plugin-dts": "^3.0.2",
     "rollup-plugin-esbuild": "^4.5.0",
