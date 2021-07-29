@@ -20,7 +20,7 @@
     "/dist"
   ],
   "repository": "github:corets/clipboard-helpers",
-  "homepage": "https://corets.github.io/clipboard-helpers",
+  "homepage": "https://docs.corets.io/helpers/clipboard-helpers",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
